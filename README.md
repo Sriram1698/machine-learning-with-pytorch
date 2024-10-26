@@ -1,1 +1,1 @@
-# machine_learning_with_pytorch
+# Machine Learning with PyTorch
